@@ -2,6 +2,13 @@
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
+## Setup
+
+1. Clone the project to your local directory:  git clone https://github.com/ImranK1506/Udacity-UnitTesting-Jasmine
+2. All the logic can be found in the js/app.js folder.
+3. All the tests can be viewed in the jasmine/spec/feedreader.js file
+4. Open the index.html in your browser
+5. There are a total of 7 tests. It's result is shown below the page
 
 ## Why this Project?
 
